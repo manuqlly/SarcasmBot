@@ -1,0 +1,7 @@
+discord.py
+asyncpg
+tqdm
+langchain
+langchain_community
+sentence-transformers
+requests
